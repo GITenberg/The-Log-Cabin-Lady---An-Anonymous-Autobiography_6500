@@ -1,0 +1,37 @@
+_repo: The-Log-Cabin-Lady---An-Anonymous-Autobiography_6500
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Meloney, Marie Mattingly
+    aliases:
+    - Meloney, Mrs. William B.
+    - Meloney, Mrs. W. B.
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '2620'
+    url: http://www.gutenberg.org/2009/agents/2620
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Mattingly_Meloney
+covers:
+- cover_type: archival
+  image_path: 6500/6500-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Americans -- Great Britain -- Biography'
+- !lcsh 'Women -- United States -- Biography'
+- !lcsh 'United States -- History -- 1901-1953'
+- !lcsh 'Great Britain -- History -- George V, 1910-1936'
+- !lcsh 'Great Britain -- History -- Edward VII, 1901-1910'
+- GITenberg
+title: The Log-Cabin Lady — An Anonymous Autobiography
+url: http://www.gutenberg.org/ebooks/6500
