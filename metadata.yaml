@@ -1,5 +1,5 @@
 _repo: The-Log-Cabin-Lady---An-Anonymous-Autobiography_6500
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Meloney, Marie Mattingly
@@ -12,11 +12,11 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/2620
     wikipedia: http://en.wikipedia.org/wiki/Marie_Mattingly_Meloney
 covers:
-- cover_type: archival
-  image_path: 6500/6500-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6500#The-Log-Cabin-Lady---An-Anonymous-Autobiography
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
